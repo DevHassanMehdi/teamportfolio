@@ -20,8 +20,8 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Our Team",
-  title: "Hi",
+  username: "Portfolio | Team",
+  title: "Hello",
   subTitle: emoji(
     "Unlocking Potential Through Technology, Meet Our Dynamic Team of Computer Scientists"
   ),
