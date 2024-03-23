@@ -310,25 +310,25 @@ const achievementSection = {
         },
       ]
     },
-    {
-      title: "ADAM CONRAD",
-      subtitle:"Data Scientist",
-      image: require("./assets/images/adam.jpeg"),
-      footerLink: [
-        {
-          name: "Python",
-        },
-        {
-          name: "Matlab, Tableau",
-        },
-        {
-          name: "Machine Learning",
-        },
-        {
-          name: "Data Science",
-        },
-      ]
-    },
+//    {
+//      title: "ADAM CONRAD",
+//      subtitle:"Data Scientist",
+//      image: require("./assets/images/adam.jpeg"),
+//      footerLink: [
+//        {
+//          name: "Python",
+//        },
+//        {
+//          name: "Matlab, Tableau",
+//        },
+//        {
+//          name: "Machine Learning",
+//        },
+//        {
+//          name: "Data Science",
+//        },
+//      ]
+//    },
     {
       title: "JUNAID RAZA",
       subtitle:"Data Scientist",
@@ -376,10 +376,13 @@ const achievementSection = {
           name: "Python",
         },
         {
-          name: "Data Analysis",
+          name: "Data Science",
         },
         {
-          name: "Data Science",
+          name: "NLP",
+        },
+        {
+          name: "Machine Learning",
         },
       ]
     },
