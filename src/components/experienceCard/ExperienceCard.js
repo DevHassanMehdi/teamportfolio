@@ -77,7 +77,7 @@ export default function ExperienceCard({cardInfo, isDark}) {
           {cardInfo.desc}
         </p>
         <br></br>
-        Technologies Used:
+          Technologies Used:
         <ul>
           <GetDescBullets descBullets={cardInfo.descBullets} isDark={isDark} />
         </ul>

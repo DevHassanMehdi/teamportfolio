@@ -172,8 +172,8 @@ const workExperiences = {
       +" infrastructure. This integration allowed for the efficient functioning of the software, where the front end"
       +" connected flawlessly with the backend, ensuring a cohesive and functional end-to-end system. Through our"
       +" collective expertise in Python development, AI models, machine learning, and deep learning principles, we"
-      +" successfully crafted a cutting-edge software solution that caters to the dynamic needs of modern businesses."
-      +" Mentioned below are some of the technologies used to develop this project",
+      +" successfully crafted a cutting-edge software solution that caters to the dynamic needs of modern businesses.",
+
       descBullets: [
         "Python for back-end and Data Science Algorithms.",
         "TypeScript with React for front-end development.",
@@ -181,9 +181,7 @@ const workExperiences = {
         "Pandas, NumPy, SciPy for data processing.",
         "PyQt, PyTest, OpenCv, Matplotlib for data visualization.",
         "Postgres Database.",
-      ],
-      desc2:"Text",
-      descBullets2: ["bullet"]
+      ]
     },
   ]
 };
